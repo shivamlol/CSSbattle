@@ -10,3 +10,7 @@ This repo mainly contains code snipets of front-end designs.
 ## DAY3 : 
 
 ## DAY4 : 
+
+## DAY5 : 
+
+## DAY6 : 
