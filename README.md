@@ -25,3 +25,8 @@ This repo mainly contains patterns for front-end designs.
 <img src="https://github.com/shivamlol/CSSbattle/assets/76174984/b79a4a6f-ac6f-4384-b7b1-3f1f258ed24e" width = 200px height = 200px>
 
 ## DAY6 : 
+<img src="https://github.com/shivamlol/CSSbattle/assets/76174984/f4199185-5b95-4cef-aa22-e3609b0b8e81" width = 200px height = 200px>
+<img src="https://github.com/shivamlol/CSSbattle/assets/76174984/5aa123d7-0cee-4b32-8105-13c61fc02d9d" width = 200px height = 200px>
+<img src="https://github.com/shivamlol/CSSbattle/assets/76174984/b1d7ac41-7c8b-4674-a6b3-07d0f0c46816" width = 200px height = 200px>
+<img src="https://github.com/shivamlol/CSSbattle/assets/76174984/7d20b0af-b3bf-479b-b6e9-9ee17b113ee0" width = 200px height = 200px>
+
