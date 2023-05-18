@@ -1,5 +1,5 @@
 # CSSbattle
-This repo mainly contains code snipets of front-end designs.
+This repo mainly contains patterns for front-end designs.
 
 
 ## DAY1 : 
