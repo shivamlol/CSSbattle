@@ -32,4 +32,5 @@ This repo mainly contains patterns for front-end designs.
 
 ## DAY7 :
 <img src="https://github.com/shivamlol/CSSbattle/assets/76174984/a7b04408-77a0-4eb9-a8d1-fc75b0f9da85" width = 200px height = 200px>
+<img src="" width = 200px height = 200px>
 
