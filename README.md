@@ -30,3 +30,6 @@ This repo mainly contains patterns for front-end designs.
 <img src="https://github.com/shivamlol/CSSbattle/assets/76174984/b1d7ac41-7c8b-4674-a6b3-07d0f0c46816" width = 200px height = 200px>
 <img src="https://github.com/shivamlol/CSSbattle/assets/76174984/7d20b0af-b3bf-479b-b6e9-9ee17b113ee0" width = 200px height = 200px>
 
+## DAY7 :
+
+
