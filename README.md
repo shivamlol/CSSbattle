@@ -41,5 +41,5 @@ This repo mainly contains patterns for front-end designs.
 
 ## DAY9 :
 
-
+<img src="https://github.com/shivamlol/CSSbattle/assets/76174984/2130e93e-dcc9-4e5e-ab19-0f155acb45c0" width = 200px height = 200px>
 
